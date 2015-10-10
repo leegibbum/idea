@@ -8,7 +8,7 @@
 </head>
 
 <script type="text/javaScript">
-	document.location.href="/index.do";
+	document.location.href="/index1.do";
 </script>
 
 <body>
